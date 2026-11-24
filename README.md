@@ -1,14 +1,14 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a0404,100:881337&height=185&section=header&text=SATRIA%20EGA%20PERDANA&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile%20Developer%20%7C%20System%20Builder&descAlignY=66&descSize=15" width="100%" />
+  <h1>SATRIA EGA PERDANA</h1>
+  <p><b>Full-Stack Developer | Web & Mobile Application Developer | System Builder</b></p>
 </div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Indramayu%2C%20Indonesia-4a0404?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Web%20%7C%20Mobile-881337?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Web%20%26%20Mobile-881337?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Education-D4%20Software%20Engineering-9f1239?style=flat-square&logo=academia&logoColor=white" />
   <a href="https://budgetings.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Founder-Budgetings-be123c?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Founder%20%26%20System%20Builder-Budgetings-be123c?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
     <td>
       <b>Satria Ega Perdana</b><br>
       <i>Full-Stack Developer | Web & Mobile Application Developer</i><br><br>
-      Full-Stack Developer and final-year <b>D4 Software Engineering (Rekayasa Perangkat Lunak)</b> student at <b>Politeknik Negeri Indramayu</b>, specializing in end-to-end web platforms, mobile applications, and AI-integrated automation systems. Currently serving as the <b>Founder & System Builder of Budgetings</b>, with hands-on industry internship experience developing full-stack e-commerce analytics and SaaS modules at <b>PT Aplikasi Dagang Teknologi</b>.
+      Full-Stack Developer and final-year <b>D4 Software Engineering (Rekayasa Perangkat Lunak)</b> student at <b>Politeknik Negeri Indramayu</b>, specializing in end-to-end web platforms, mobile applications, and AI-integrated automation systems. Co-founder and <b>System Builder of Budgetings</b> (handling full technical development and infrastructure alongside a marketing partner), with hands-on industry internship experience building full-stack e-commerce analytics and SaaS modules at <b>PT Aplikasi Dagang Teknologi</b>.
     </td>
   </tr>
 </table>
@@ -81,13 +81,13 @@
 
 ### Experience & Ventures
 
-#### **Founder & System Builder** — *[Budgetings](https://budgetings.my.id)* *(Sole Proprietorship)*
+#### **Founder & System Builder** — *[Budgetings](https://budgetings.my.id)* *(Managed with a Marketing Partner; Technical & System Lead)*
 `2026 – Present`
-- Architected, built, and operate an end-to-end personal finance web platform and 24/7 WhatsApp financial assistant bot currently in **Production Ready (Active Beta Release)**.
-- Engineered natural language transaction logging and physical receipt **OCR scanning** via WhatsApp chat powered by **Google Gemini AI**, orchestrated with **WAHA Docker** and **n8n**.
-- Developed real-time cash flow visualization dashboards with **50/30/20 budget allocation evaluation**, interactive transaction calendars, Excel/CSV reporting exports, and a dynamic Superadmin CMS.
-- Implemented tiered subscription plans (*Trial, Standar, Plus*) with a public checkout integrated directly into the **Xendit Official API** (QRIS, Bank Virtual Accounts, and E-Wallets) featuring automated post-payment account activation.
-- Deployed and maintained the full ecosystem on a **Biznet GIO Cloud Linux VPS** equipped with a self-healing watchdog service for continuous uptime.
+- Spearhead end-to-end system architecture, application engineering, and server operations for **Budgetings**, collaborating with a partner focused on marketing while owning all technical development.
+- Built a production-ready personal finance web platform and 24/7 WhatsApp assistant bot (active beta release) supporting natural language transaction entry and physical receipt **OCR scanning** via **Google Gemini AI**, orchestrated with **WAHA Docker** and **n8n**.
+- Developed real-time cash flow dashboards with **50/30/20 budget evaluation**, interactive transaction calendars, Excel/CSV exports, and a dynamic Superadmin CMS.
+- Implemented tiered subscriptions (*Trial, Standar, Plus*) and public checkout integrated with the **Xendit Official API** (QRIS, Bank Virtual Accounts, E-Wallets) with automated post-payment account activation.
+- Deployed and maintained the system on a **Biznet GIO Cloud Linux VPS** with a self-healing watchdog mechanism for high availability.
 
 #### **Full-Stack Developer Intern** — *PT Aplikasi Dagang Teknologi*
 `Jan 2026 – Jun 2026`
@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td><b><a href="https://budgetings.my.id">Budgetings</a></b><br><sub>AI Personal Finance & WhatsApp Bot</sub></td>
-    <td>Production-ready personal budgeting web app & 24/7 WhatsApp bot featuring Gemini AI NLP/OCR receipt parsing, 50/30/20 analytics, Excel/CSV export, dynamic CMS, and automated Xendit subscription billing on an auto-healing Linux VPS.</td>
+    <td>Production-ready personal budgeting web app & 24/7 WhatsApp bot built and maintained as system builder, featuring Gemini AI NLP/OCR receipt parsing, 50/30/20 analytics, Excel/CSV export, dynamic CMS, and automated Xendit subscription billing on an auto-healing Linux VPS.</td>
     <td><code>Next.js 15</code> <code>React 19</code><br><code>TypeScript</code> <code>Drizzle</code><br><code>PostgreSQL</code> <code>n8n</code><br><code>WAHA</code> <code>Xendit API</code></td>
   </tr>
   <tr>
