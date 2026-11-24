@@ -127,15 +127,6 @@
 
 ---
 
-### GitHub Activity & Metrics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=satria2003&show_icons=true&theme=radical&hide_border=true&bg_color=18080c&title_color=f43f5e&icon_color=fb7185&text_color=e2e8f0" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satria2003&layout=compact&theme=radical&hide_border=true&bg_color=18080c&title_color=f43f5e&text_color=e2e8f0" />
-</div>
-
----
-
 ### Contact & Links
 
 <p align="left">
